@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/sample_asset.png</file>
+  </qresource>
+  <qresource prefix="translator">
+    <file>i18n/de.qm</file>
+    <file>i18n/kr.qm</file>
+  </qresource>
+</RCC>
